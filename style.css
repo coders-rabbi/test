@@ -8,3 +8,17 @@
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     border-radius: 5px;
 }
+.rabbi{
+    height: 100px;
+    width: 200px;
+    background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rabbi2{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background: red;
+}
